@@ -21,7 +21,7 @@
     "@vueuse/core": "10.1.0",
     "@vueuse/math": "10.1.0",
     "apexcharts-clevision": "3.28.5",
-    "axios": "1.4.0",
+    "axios": "1.6.0",
     "axios-mock-adapter": "1.21.4",
     "chart.js": "4.3.0",
     "jwt-decode": "3.1.2",
